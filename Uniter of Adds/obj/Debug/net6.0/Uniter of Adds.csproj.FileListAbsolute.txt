@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Uniter of Adds\bin\Debug\net6.0\Uniter of Adds.exe
+C:\Users\Bob\source\repos\Uniter of Adds\bin\Debug\net6.0\Uniter of Adds.deps.json
+C:\Users\Bob\source\repos\Uniter of Adds\bin\Debug\net6.0\Uniter of Adds.runtimeconfig.json
+C:\Users\Bob\source\repos\Uniter of Adds\bin\Debug\net6.0\Uniter of Adds.dll
+C:\Users\Bob\source\repos\Uniter of Adds\bin\Debug\net6.0\Uniter of Adds.pdb
+C:\Users\Bob\source\repos\Uniter of Adds\obj\Debug\net6.0\Uniter of Adds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Uniter of Adds\obj\Debug\net6.0\Uniter of Adds.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Uniter of Adds\obj\Debug\net6.0\Uniter of Adds.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Uniter of Adds\obj\Debug\net6.0\Uniter of Adds.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Uniter of Adds\obj\Debug\net6.0\Uniter of Adds.dll
+C:\Users\Bob\source\repos\Uniter of Adds\obj\Debug\net6.0\refint\Uniter of Adds.dll
+C:\Users\Bob\source\repos\Uniter of Adds\obj\Debug\net6.0\Uniter of Adds.pdb
+C:\Users\Bob\source\repos\Uniter of Adds\obj\Debug\net6.0\Uniter of Adds.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Uniter of Adds\obj\Debug\net6.0\ref\Uniter of Adds.dll
