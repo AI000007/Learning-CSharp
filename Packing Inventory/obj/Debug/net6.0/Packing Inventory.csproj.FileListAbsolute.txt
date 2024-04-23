@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Packing Inventory\bin\Debug\net6.0\Packing Inventory.exe
+C:\Users\Bob\source\repos\Packing Inventory\bin\Debug\net6.0\Packing Inventory.deps.json
+C:\Users\Bob\source\repos\Packing Inventory\bin\Debug\net6.0\Packing Inventory.runtimeconfig.json
+C:\Users\Bob\source\repos\Packing Inventory\bin\Debug\net6.0\Packing Inventory.dll
+C:\Users\Bob\source\repos\Packing Inventory\bin\Debug\net6.0\Packing Inventory.pdb
+C:\Users\Bob\source\repos\Packing Inventory\obj\Debug\net6.0\Packing Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Packing Inventory\obj\Debug\net6.0\Packing Inventory.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Packing Inventory\obj\Debug\net6.0\Packing Inventory.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Packing Inventory\obj\Debug\net6.0\Packing Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Packing Inventory\obj\Debug\net6.0\Packing Inventory.dll
+C:\Users\Bob\source\repos\Packing Inventory\obj\Debug\net6.0\refint\Packing Inventory.dll
+C:\Users\Bob\source\repos\Packing Inventory\obj\Debug\net6.0\Packing Inventory.pdb
+C:\Users\Bob\source\repos\Packing Inventory\obj\Debug\net6.0\Packing Inventory.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Packing Inventory\obj\Debug\net6.0\ref\Packing Inventory.dll

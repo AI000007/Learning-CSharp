@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Robotic Interface/1.0.0": {
+        "runtime": {
+          "Robotic Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Robotic Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

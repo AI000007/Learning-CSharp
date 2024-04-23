@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Robotic Interface\bin\Debug\net6.0\Robotic Interface.exe
+C:\Users\Bob\source\repos\Robotic Interface\bin\Debug\net6.0\Robotic Interface.deps.json
+C:\Users\Bob\source\repos\Robotic Interface\bin\Debug\net6.0\Robotic Interface.runtimeconfig.json
+C:\Users\Bob\source\repos\Robotic Interface\bin\Debug\net6.0\Robotic Interface.dll
+C:\Users\Bob\source\repos\Robotic Interface\bin\Debug\net6.0\Robotic Interface.pdb
+C:\Users\Bob\source\repos\Robotic Interface\obj\Debug\net6.0\Robotic Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Robotic Interface\obj\Debug\net6.0\Robotic Interface.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Robotic Interface\obj\Debug\net6.0\Robotic Interface.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Robotic Interface\obj\Debug\net6.0\Robotic Interface.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Robotic Interface\obj\Debug\net6.0\Robotic Interface.dll
+C:\Users\Bob\source\repos\Robotic Interface\obj\Debug\net6.0\refint\Robotic Interface.dll
+C:\Users\Bob\source\repos\Robotic Interface\obj\Debug\net6.0\Robotic Interface.pdb
+C:\Users\Bob\source\repos\Robotic Interface\obj\Debug\net6.0\Robotic Interface.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Robotic Interface\obj\Debug\net6.0\ref\Robotic Interface.dll
