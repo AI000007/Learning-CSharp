@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Safer Number Crunching\bin\Debug\net6.0\Safer Number Crunching.exe
+C:\Users\Bob\source\repos\Safer Number Crunching\bin\Debug\net6.0\Safer Number Crunching.deps.json
+C:\Users\Bob\source\repos\Safer Number Crunching\bin\Debug\net6.0\Safer Number Crunching.runtimeconfig.json
+C:\Users\Bob\source\repos\Safer Number Crunching\bin\Debug\net6.0\Safer Number Crunching.dll
+C:\Users\Bob\source\repos\Safer Number Crunching\bin\Debug\net6.0\Safer Number Crunching.pdb
+C:\Users\Bob\source\repos\Safer Number Crunching\obj\Debug\net6.0\Safer Number Crunching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Safer Number Crunching\obj\Debug\net6.0\Safer Number Crunching.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Safer Number Crunching\obj\Debug\net6.0\Safer Number Crunching.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Safer Number Crunching\obj\Debug\net6.0\Safer Number Crunching.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Safer Number Crunching\obj\Debug\net6.0\Safer Number Crunching.dll
+C:\Users\Bob\source\repos\Safer Number Crunching\obj\Debug\net6.0\refint\Safer Number Crunching.dll
+C:\Users\Bob\source\repos\Safer Number Crunching\obj\Debug\net6.0\Safer Number Crunching.pdb
+C:\Users\Bob\source\repos\Safer Number Crunching\obj\Debug\net6.0\Safer Number Crunching.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Safer Number Crunching\obj\Debug\net6.0\ref\Safer Number Crunching.dll

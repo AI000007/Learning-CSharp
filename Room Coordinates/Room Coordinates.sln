@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room Coordinates", "Room Coordinates.csproj", "{3CC205DB-D2E0-4E7E-B69F-15A515E032BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC205DB-D2E0-4E7E-B69F-15A515E032BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC205DB-D2E0-4E7E-B69F-15A515E032BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC205DB-D2E0-4E7E-B69F-15A515E032BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC205DB-D2E0-4E7E-B69F-15A515E032BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D475E6D-0591-4800-99B5-32567CC875D9}
+	EndGlobalSection
+EndGlobal

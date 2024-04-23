@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Simula's Soup\obj\Debug\net6.0\Simula's Soup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Simula's Soup\obj\Debug\net6.0\Simula's Soup.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Simula's Soup\obj\Debug\net6.0\Simula's Soup.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Simula's Soup\obj\Debug\net6.0\Simula's Soup.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Simula's Soup\bin\Debug\net6.0\Simula's Soup.exe
+C:\Users\Bob\source\repos\Simula's Soup\bin\Debug\net6.0\Simula's Soup.deps.json
+C:\Users\Bob\source\repos\Simula's Soup\bin\Debug\net6.0\Simula's Soup.runtimeconfig.json
+C:\Users\Bob\source\repos\Simula's Soup\bin\Debug\net6.0\Simula's Soup.dll
+C:\Users\Bob\source\repos\Simula's Soup\bin\Debug\net6.0\Simula's Soup.pdb
+C:\Users\Bob\source\repos\Simula's Soup\obj\Debug\net6.0\Simula's Soup.dll
+C:\Users\Bob\source\repos\Simula's Soup\obj\Debug\net6.0\refint\Simula's Soup.dll
+C:\Users\Bob\source\repos\Simula's Soup\obj\Debug\net6.0\Simula's Soup.pdb
+C:\Users\Bob\source\repos\Simula's Soup\obj\Debug\net6.0\Simula's Soup.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Simula's Soup\obj\Debug\net6.0\ref\Simula's Soup.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Safer Number Crunching/1.0.0": {
+        "runtime": {
+          "Safer Number Crunching.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Safer Number Crunching/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
