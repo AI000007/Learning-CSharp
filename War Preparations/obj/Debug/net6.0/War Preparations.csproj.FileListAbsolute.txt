@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\War Preparations\bin\Debug\net6.0\War Preparations.exe
+C:\Users\Bob\source\repos\War Preparations\bin\Debug\net6.0\War Preparations.deps.json
+C:\Users\Bob\source\repos\War Preparations\bin\Debug\net6.0\War Preparations.runtimeconfig.json
+C:\Users\Bob\source\repos\War Preparations\bin\Debug\net6.0\War Preparations.dll
+C:\Users\Bob\source\repos\War Preparations\bin\Debug\net6.0\War Preparations.pdb
+C:\Users\Bob\source\repos\War Preparations\obj\Debug\net6.0\War Preparations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\War Preparations\obj\Debug\net6.0\War Preparations.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\War Preparations\obj\Debug\net6.0\War Preparations.AssemblyInfo.cs
+C:\Users\Bob\source\repos\War Preparations\obj\Debug\net6.0\War Preparations.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\War Preparations\obj\Debug\net6.0\War Preparations.dll
+C:\Users\Bob\source\repos\War Preparations\obj\Debug\net6.0\refint\War Preparations.dll
+C:\Users\Bob\source\repos\War Preparations\obj\Debug\net6.0\War Preparations.pdb
+C:\Users\Bob\source\repos\War Preparations\obj\Debug\net6.0\War Preparations.genruntimeconfig.cache
+C:\Users\Bob\source\repos\War Preparations\obj\Debug\net6.0\ref\War Preparations.dll
