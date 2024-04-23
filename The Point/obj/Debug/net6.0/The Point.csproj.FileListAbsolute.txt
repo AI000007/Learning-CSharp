@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\The Point\bin\Debug\net6.0\The Point.exe
+C:\Users\Bob\source\repos\The Point\bin\Debug\net6.0\The Point.deps.json
+C:\Users\Bob\source\repos\The Point\bin\Debug\net6.0\The Point.runtimeconfig.json
+C:\Users\Bob\source\repos\The Point\bin\Debug\net6.0\The Point.dll
+C:\Users\Bob\source\repos\The Point\bin\Debug\net6.0\The Point.pdb
+C:\Users\Bob\source\repos\The Point\obj\Debug\net6.0\The Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\The Point\obj\Debug\net6.0\The Point.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\The Point\obj\Debug\net6.0\The Point.AssemblyInfo.cs
+C:\Users\Bob\source\repos\The Point\obj\Debug\net6.0\The Point.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\The Point\obj\Debug\net6.0\The Point.dll
+C:\Users\Bob\source\repos\The Point\obj\Debug\net6.0\refint\The Point.dll
+C:\Users\Bob\source\repos\The Point\obj\Debug\net6.0\The Point.pdb
+C:\Users\Bob\source\repos\The Point\obj\Debug\net6.0\The Point.genruntimeconfig.cache
+C:\Users\Bob\source\repos\The Point\obj\Debug\net6.0\ref\The Point.dll
