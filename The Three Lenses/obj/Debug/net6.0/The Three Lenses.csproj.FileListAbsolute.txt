@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\The Three Lenses\bin\Debug\net6.0\The Three Lenses.exe
+C:\Users\Bob\source\repos\The Three Lenses\bin\Debug\net6.0\The Three Lenses.deps.json
+C:\Users\Bob\source\repos\The Three Lenses\bin\Debug\net6.0\The Three Lenses.runtimeconfig.json
+C:\Users\Bob\source\repos\The Three Lenses\bin\Debug\net6.0\The Three Lenses.dll
+C:\Users\Bob\source\repos\The Three Lenses\bin\Debug\net6.0\The Three Lenses.pdb
+C:\Users\Bob\source\repos\The Three Lenses\obj\Debug\net6.0\The Three Lenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\The Three Lenses\obj\Debug\net6.0\The Three Lenses.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\The Three Lenses\obj\Debug\net6.0\The Three Lenses.AssemblyInfo.cs
+C:\Users\Bob\source\repos\The Three Lenses\obj\Debug\net6.0\The Three Lenses.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\The Three Lenses\obj\Debug\net6.0\The Three Lenses.dll
+C:\Users\Bob\source\repos\The Three Lenses\obj\Debug\net6.0\refint\The Three Lenses.dll
+C:\Users\Bob\source\repos\The Three Lenses\obj\Debug\net6.0\The Three Lenses.pdb
+C:\Users\Bob\source\repos\The Three Lenses\obj\Debug\net6.0\The Three Lenses.genruntimeconfig.cache
+C:\Users\Bob\source\repos\The Three Lenses\obj\Debug\net6.0\ref\The Three Lenses.dll
