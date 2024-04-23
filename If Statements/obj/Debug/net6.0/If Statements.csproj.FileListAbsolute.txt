@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\If Statements\obj\Debug\net6.0\If Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\If Statements\obj\Debug\net6.0\If Statements.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\If Statements\obj\Debug\net6.0\If Statements.AssemblyInfo.cs
+C:\Users\Bob\source\repos\If Statements\obj\Debug\net6.0\If Statements.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\If Statements\bin\Debug\net6.0\If Statements.exe
+C:\Users\Bob\source\repos\If Statements\bin\Debug\net6.0\If Statements.deps.json
+C:\Users\Bob\source\repos\If Statements\bin\Debug\net6.0\If Statements.runtimeconfig.json
+C:\Users\Bob\source\repos\If Statements\bin\Debug\net6.0\If Statements.dll
+C:\Users\Bob\source\repos\If Statements\bin\Debug\net6.0\If Statements.pdb
+C:\Users\Bob\source\repos\If Statements\obj\Debug\net6.0\If Statements.dll
+C:\Users\Bob\source\repos\If Statements\obj\Debug\net6.0\refint\If Statements.dll
+C:\Users\Bob\source\repos\If Statements\obj\Debug\net6.0\If Statements.pdb
+C:\Users\Bob\source\repos\If Statements\obj\Debug\net6.0\If Statements.genruntimeconfig.cache
+C:\Users\Bob\source\repos\If Statements\obj\Debug\net6.0\ref\If Statements.dll

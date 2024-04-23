@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Many Random Words\bin\Debug\net6.0\Many Random Words.exe
+C:\Users\Bob\source\repos\Many Random Words\bin\Debug\net6.0\Many Random Words.deps.json
+C:\Users\Bob\source\repos\Many Random Words\bin\Debug\net6.0\Many Random Words.runtimeconfig.json
+C:\Users\Bob\source\repos\Many Random Words\bin\Debug\net6.0\Many Random Words.dll
+C:\Users\Bob\source\repos\Many Random Words\bin\Debug\net6.0\Many Random Words.pdb
+C:\Users\Bob\source\repos\Many Random Words\obj\Debug\net6.0\Many Random Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Many Random Words\obj\Debug\net6.0\Many Random Words.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Many Random Words\obj\Debug\net6.0\Many Random Words.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Many Random Words\obj\Debug\net6.0\Many Random Words.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Many Random Words\obj\Debug\net6.0\Many Random Words.dll
+C:\Users\Bob\source\repos\Many Random Words\obj\Debug\net6.0\refint\Many Random Words.dll
+C:\Users\Bob\source\repos\Many Random Words\obj\Debug\net6.0\Many Random Words.pdb
+C:\Users\Bob\source\repos\Many Random Words\obj\Debug\net6.0\Many Random Words.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Many Random Words\obj\Debug\net6.0\ref\Many Random Words.dll
