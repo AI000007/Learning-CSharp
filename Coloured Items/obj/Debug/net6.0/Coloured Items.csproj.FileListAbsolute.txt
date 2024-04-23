@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Coloured Items\bin\Debug\net6.0\Coloured Items.exe
+C:\Users\Bob\source\repos\Coloured Items\bin\Debug\net6.0\Coloured Items.deps.json
+C:\Users\Bob\source\repos\Coloured Items\bin\Debug\net6.0\Coloured Items.runtimeconfig.json
+C:\Users\Bob\source\repos\Coloured Items\bin\Debug\net6.0\Coloured Items.dll
+C:\Users\Bob\source\repos\Coloured Items\bin\Debug\net6.0\Coloured Items.pdb
+C:\Users\Bob\source\repos\Coloured Items\obj\Debug\net6.0\Coloured Items.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Coloured Items\obj\Debug\net6.0\Coloured Items.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Coloured Items\obj\Debug\net6.0\Coloured Items.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Coloured Items\obj\Debug\net6.0\Coloured Items.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Coloured Items\obj\Debug\net6.0\Coloured Items.dll
+C:\Users\Bob\source\repos\Coloured Items\obj\Debug\net6.0\refint\Coloured Items.dll
+C:\Users\Bob\source\repos\Coloured Items\obj\Debug\net6.0\Coloured Items.pdb
+C:\Users\Bob\source\repos\Coloured Items\obj\Debug\net6.0\Coloured Items.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Coloured Items\obj\Debug\net6.0\ref\Coloured Items.dll

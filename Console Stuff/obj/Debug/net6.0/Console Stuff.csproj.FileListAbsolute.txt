@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Console Stuff\bin\Debug\net6.0\Console Stuff.exe
+C:\Users\Bob\source\repos\Console Stuff\bin\Debug\net6.0\Console Stuff.deps.json
+C:\Users\Bob\source\repos\Console Stuff\bin\Debug\net6.0\Console Stuff.runtimeconfig.json
+C:\Users\Bob\source\repos\Console Stuff\bin\Debug\net6.0\Console Stuff.dll
+C:\Users\Bob\source\repos\Console Stuff\bin\Debug\net6.0\Console Stuff.pdb
+C:\Users\Bob\source\repos\Console Stuff\obj\Debug\net6.0\Console Stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Console Stuff\obj\Debug\net6.0\Console Stuff.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Console Stuff\obj\Debug\net6.0\Console Stuff.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Console Stuff\obj\Debug\net6.0\Console Stuff.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Console Stuff\obj\Debug\net6.0\Console Stuff.dll
+C:\Users\Bob\source\repos\Console Stuff\obj\Debug\net6.0\refint\Console Stuff.dll
+C:\Users\Bob\source\repos\Console Stuff\obj\Debug\net6.0\Console Stuff.pdb
+C:\Users\Bob\source\repos\Console Stuff\obj\Debug\net6.0\Console Stuff.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Console Stuff\obj\Debug\net6.0\ref\Console Stuff.dll
