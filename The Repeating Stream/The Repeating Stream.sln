@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Repeating Stream", "The Repeating Stream.csproj", "{02D30E19-C113-49AD-A148-8706A6951707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D30E19-C113-49AD-A148-8706A6951707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D30E19-C113-49AD-A148-8706A6951707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D30E19-C113-49AD-A148-8706A6951707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D30E19-C113-49AD-A148-8706A6951707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C42FEDE-56C9-4081-AC5E-779B2BE12F1F}
+	EndGlobalSection
+EndGlobal

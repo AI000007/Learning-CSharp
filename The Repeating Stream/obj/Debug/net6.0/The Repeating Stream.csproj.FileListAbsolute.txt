@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\The Repeating Stream\bin\Debug\net6.0\The Repeating Stream.exe
+C:\Users\Bob\source\repos\The Repeating Stream\bin\Debug\net6.0\The Repeating Stream.deps.json
+C:\Users\Bob\source\repos\The Repeating Stream\bin\Debug\net6.0\The Repeating Stream.runtimeconfig.json
+C:\Users\Bob\source\repos\The Repeating Stream\bin\Debug\net6.0\The Repeating Stream.dll
+C:\Users\Bob\source\repos\The Repeating Stream\bin\Debug\net6.0\The Repeating Stream.pdb
+C:\Users\Bob\source\repos\The Repeating Stream\obj\Debug\net6.0\The Repeating Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\The Repeating Stream\obj\Debug\net6.0\The Repeating Stream.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\The Repeating Stream\obj\Debug\net6.0\The Repeating Stream.AssemblyInfo.cs
+C:\Users\Bob\source\repos\The Repeating Stream\obj\Debug\net6.0\The Repeating Stream.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\The Repeating Stream\obj\Debug\net6.0\The Repeating Stream.dll
+C:\Users\Bob\source\repos\The Repeating Stream\obj\Debug\net6.0\refint\The Repeating Stream.dll
+C:\Users\Bob\source\repos\The Repeating Stream\obj\Debug\net6.0\The Repeating Stream.pdb
+C:\Users\Bob\source\repos\The Repeating Stream\obj\Debug\net6.0\The Repeating Stream.genruntimeconfig.cache
+C:\Users\Bob\source\repos\The Repeating Stream\obj\Debug\net6.0\ref\The Repeating Stream.dll

@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\bin\Debug\net6.0\The Potion Masters of Pattren.exe
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\bin\Debug\net6.0\The Potion Masters of Pattren.deps.json
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\bin\Debug\net6.0\The Potion Masters of Pattren.runtimeconfig.json
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\bin\Debug\net6.0\The Potion Masters of Pattren.dll
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\bin\Debug\net6.0\The Potion Masters of Pattren.pdb
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\obj\Debug\net6.0\The Potion Masters of Pattren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\obj\Debug\net6.0\The Potion Masters of Pattren.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\obj\Debug\net6.0\The Potion Masters of Pattren.AssemblyInfo.cs
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\obj\Debug\net6.0\The Potion Masters of Pattren.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\obj\Debug\net6.0\The Potion Masters of Pattren.dll
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\obj\Debug\net6.0\refint\The Potion Masters of Pattren.dll
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\obj\Debug\net6.0\The Potion Masters of Pattren.pdb
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\obj\Debug\net6.0\The Potion Masters of Pattren.genruntimeconfig.cache
+C:\Users\Bob\source\repos\The Potion Masters of Pattren\obj\Debug\net6.0\ref\The Potion Masters of Pattren.dll
