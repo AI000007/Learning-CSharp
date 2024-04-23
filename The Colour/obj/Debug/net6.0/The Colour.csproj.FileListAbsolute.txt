@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\The Colour\obj\Debug\net6.0\The Colour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\The Colour\obj\Debug\net6.0\The Colour.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\The Colour\obj\Debug\net6.0\The Colour.AssemblyInfo.cs
+C:\Users\Bob\source\repos\The Colour\obj\Debug\net6.0\The Colour.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\The Colour\bin\Debug\net6.0\The Colour.exe
+C:\Users\Bob\source\repos\The Colour\bin\Debug\net6.0\The Colour.deps.json
+C:\Users\Bob\source\repos\The Colour\bin\Debug\net6.0\The Colour.runtimeconfig.json
+C:\Users\Bob\source\repos\The Colour\bin\Debug\net6.0\The Colour.dll
+C:\Users\Bob\source\repos\The Colour\bin\Debug\net6.0\The Colour.pdb
+C:\Users\Bob\source\repos\The Colour\obj\Debug\net6.0\The Colour.dll
+C:\Users\Bob\source\repos\The Colour\obj\Debug\net6.0\refint\The Colour.dll
+C:\Users\Bob\source\repos\The Colour\obj\Debug\net6.0\The Colour.pdb
+C:\Users\Bob\source\repos\The Colour\obj\Debug\net6.0\The Colour.genruntimeconfig.cache
+C:\Users\Bob\source\repos\The Colour\obj\Debug\net6.0\ref\The Colour.dll
