@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Guess_the_Number</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Taking a Number">
+      <HintPath>..\Taking a Number\bin\Debug\net6.0\Taking a Number.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

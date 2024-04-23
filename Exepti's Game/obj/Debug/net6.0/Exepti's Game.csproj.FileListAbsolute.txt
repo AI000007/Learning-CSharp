@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Exepti's Game\obj\Debug\net6.0\Exepti's Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Exepti's Game\obj\Debug\net6.0\Exepti's Game.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Exepti's Game\obj\Debug\net6.0\Exepti's Game.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Exepti's Game\obj\Debug\net6.0\Exepti's Game.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Exepti's Game\bin\Debug\net6.0\Exepti's Game.exe
+C:\Users\Bob\source\repos\Exepti's Game\bin\Debug\net6.0\Exepti's Game.deps.json
+C:\Users\Bob\source\repos\Exepti's Game\bin\Debug\net6.0\Exepti's Game.runtimeconfig.json
+C:\Users\Bob\source\repos\Exepti's Game\bin\Debug\net6.0\Exepti's Game.dll
+C:\Users\Bob\source\repos\Exepti's Game\bin\Debug\net6.0\Exepti's Game.pdb
+C:\Users\Bob\source\repos\Exepti's Game\obj\Debug\net6.0\Exepti's Game.dll
+C:\Users\Bob\source\repos\Exepti's Game\obj\Debug\net6.0\refint\Exepti's Game.dll
+C:\Users\Bob\source\repos\Exepti's Game\obj\Debug\net6.0\Exepti's Game.pdb
+C:\Users\Bob\source\repos\Exepti's Game\obj\Debug\net6.0\Exepti's Game.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Exepti's Game\obj\Debug\net6.0\ref\Exepti's Game.dll
