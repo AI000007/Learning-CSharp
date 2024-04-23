@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\The Old Robot\bin\Debug\net6.0\The Old Robot.exe
+C:\Users\Bob\source\repos\The Old Robot\bin\Debug\net6.0\The Old Robot.deps.json
+C:\Users\Bob\source\repos\The Old Robot\bin\Debug\net6.0\The Old Robot.runtimeconfig.json
+C:\Users\Bob\source\repos\The Old Robot\bin\Debug\net6.0\The Old Robot.dll
+C:\Users\Bob\source\repos\The Old Robot\bin\Debug\net6.0\The Old Robot.pdb
+C:\Users\Bob\source\repos\The Old Robot\obj\Debug\net6.0\The Old Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\The Old Robot\obj\Debug\net6.0\The Old Robot.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\The Old Robot\obj\Debug\net6.0\The Old Robot.AssemblyInfo.cs
+C:\Users\Bob\source\repos\The Old Robot\obj\Debug\net6.0\The Old Robot.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\The Old Robot\obj\Debug\net6.0\The Old Robot.dll
+C:\Users\Bob\source\repos\The Old Robot\obj\Debug\net6.0\refint\The Old Robot.dll
+C:\Users\Bob\source\repos\The Old Robot\obj\Debug\net6.0\The Old Robot.pdb
+C:\Users\Bob\source\repos\The Old Robot\obj\Debug\net6.0\The Old Robot.genruntimeconfig.cache
+C:\Users\Bob\source\repos\The Old Robot\obj\Debug\net6.0\ref\The Old Robot.dll

@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\The Long Game\bin\Release\net6.0\The Long Game.exe
+C:\Users\Bob\source\repos\The Long Game\bin\Release\net6.0\The Long Game.deps.json
+C:\Users\Bob\source\repos\The Long Game\bin\Release\net6.0\The Long Game.runtimeconfig.json
+C:\Users\Bob\source\repos\The Long Game\bin\Release\net6.0\The Long Game.dll
+C:\Users\Bob\source\repos\The Long Game\bin\Release\net6.0\The Long Game.pdb
+C:\Users\Bob\source\repos\The Long Game\obj\Release\net6.0\The Long Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\The Long Game\obj\Release\net6.0\The Long Game.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\The Long Game\obj\Release\net6.0\The Long Game.AssemblyInfo.cs
+C:\Users\Bob\source\repos\The Long Game\obj\Release\net6.0\The Long Game.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\The Long Game\obj\Release\net6.0\The Long Game.dll
+C:\Users\Bob\source\repos\The Long Game\obj\Release\net6.0\refint\The Long Game.dll
+C:\Users\Bob\source\repos\The Long Game\obj\Release\net6.0\The Long Game.pdb
+C:\Users\Bob\source\repos\The Long Game\obj\Release\net6.0\The Long Game.genruntimeconfig.cache
+C:\Users\Bob\source\repos\The Long Game\obj\Release\net6.0\ref\The Long Game.dll
