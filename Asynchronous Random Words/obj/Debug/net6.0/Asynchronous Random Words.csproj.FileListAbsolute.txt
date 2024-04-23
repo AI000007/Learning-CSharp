@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Asynchronous Random Words\bin\Debug\net6.0\Asynchronous Random Words.exe
+C:\Users\Bob\source\repos\Asynchronous Random Words\bin\Debug\net6.0\Asynchronous Random Words.deps.json
+C:\Users\Bob\source\repos\Asynchronous Random Words\bin\Debug\net6.0\Asynchronous Random Words.runtimeconfig.json
+C:\Users\Bob\source\repos\Asynchronous Random Words\bin\Debug\net6.0\Asynchronous Random Words.dll
+C:\Users\Bob\source\repos\Asynchronous Random Words\bin\Debug\net6.0\Asynchronous Random Words.pdb
+C:\Users\Bob\source\repos\Asynchronous Random Words\obj\Debug\net6.0\Asynchronous Random Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Asynchronous Random Words\obj\Debug\net6.0\Asynchronous Random Words.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Asynchronous Random Words\obj\Debug\net6.0\Asynchronous Random Words.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Asynchronous Random Words\obj\Debug\net6.0\Asynchronous Random Words.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Asynchronous Random Words\obj\Debug\net6.0\Asynchronous Random Words.dll
+C:\Users\Bob\source\repos\Asynchronous Random Words\obj\Debug\net6.0\refint\Asynchronous Random Words.dll
+C:\Users\Bob\source\repos\Asynchronous Random Words\obj\Debug\net6.0\Asynchronous Random Words.pdb
+C:\Users\Bob\source\repos\Asynchronous Random Words\obj\Debug\net6.0\Asynchronous Random Words.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Asynchronous Random Words\obj\Debug\net6.0\ref\Asynchronous Random Words.dll

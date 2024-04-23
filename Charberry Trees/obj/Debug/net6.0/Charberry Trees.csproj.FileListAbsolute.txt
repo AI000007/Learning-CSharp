@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Charberry Trees\bin\Debug\net6.0\Charberry Trees.exe
+C:\Users\Bob\source\repos\Charberry Trees\bin\Debug\net6.0\Charberry Trees.deps.json
+C:\Users\Bob\source\repos\Charberry Trees\bin\Debug\net6.0\Charberry Trees.runtimeconfig.json
+C:\Users\Bob\source\repos\Charberry Trees\bin\Debug\net6.0\Charberry Trees.dll
+C:\Users\Bob\source\repos\Charberry Trees\bin\Debug\net6.0\Charberry Trees.pdb
+C:\Users\Bob\source\repos\Charberry Trees\obj\Debug\net6.0\Charberry Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Charberry Trees\obj\Debug\net6.0\Charberry Trees.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Charberry Trees\obj\Debug\net6.0\Charberry Trees.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Charberry Trees\obj\Debug\net6.0\Charberry Trees.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Charberry Trees\obj\Debug\net6.0\Charberry Trees.dll
+C:\Users\Bob\source\repos\Charberry Trees\obj\Debug\net6.0\refint\Charberry Trees.dll
+C:\Users\Bob\source\repos\Charberry Trees\obj\Debug\net6.0\Charberry Trees.pdb
+C:\Users\Bob\source\repos\Charberry Trees\obj\Debug\net6.0\Charberry Trees.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Charberry Trees\obj\Debug\net6.0\ref\Charberry Trees.dll

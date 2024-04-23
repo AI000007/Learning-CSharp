@@ -1,0 +1,14 @@
+C:\Users\Bob\source\repos\Better Random\bin\Debug\net6.0\Better Random.exe
+C:\Users\Bob\source\repos\Better Random\bin\Debug\net6.0\Better Random.deps.json
+C:\Users\Bob\source\repos\Better Random\bin\Debug\net6.0\Better Random.runtimeconfig.json
+C:\Users\Bob\source\repos\Better Random\bin\Debug\net6.0\Better Random.dll
+C:\Users\Bob\source\repos\Better Random\bin\Debug\net6.0\Better Random.pdb
+C:\Users\Bob\source\repos\Better Random\obj\Debug\net6.0\Better Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bob\source\repos\Better Random\obj\Debug\net6.0\Better Random.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\Better Random\obj\Debug\net6.0\Better Random.AssemblyInfo.cs
+C:\Users\Bob\source\repos\Better Random\obj\Debug\net6.0\Better Random.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\Better Random\obj\Debug\net6.0\Better Random.dll
+C:\Users\Bob\source\repos\Better Random\obj\Debug\net6.0\refint\Better Random.dll
+C:\Users\Bob\source\repos\Better Random\obj\Debug\net6.0\Better Random.pdb
+C:\Users\Bob\source\repos\Better Random\obj\Debug\net6.0\Better Random.genruntimeconfig.cache
+C:\Users\Bob\source\repos\Better Random\obj\Debug\net6.0\ref\Better Random.dll
